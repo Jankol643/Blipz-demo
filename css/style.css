@@ -88,60 +88,66 @@
   }
 }
 
-  .active
-  .align-items-center
-  .arrow_carrot-up
-  .arrow_right
-  .btn__all
-  .comment
-  .container
-  .content
-  .d-flex
-  .day
-  .ep
-  .filter__controls
-  .filter__gallery
-  .footer
-  .footer__nav
-  .h-100
-  .header
-  .header__logo
-  .header__nav
-  .hero
-  .hero__items
-  .hero__slider
-  .hero__text
-  .icon_close
-  .img
-  .img__responsive
-  .justify-content-center
-  .label
-  .live__product
-  .mix
-  .month
-  .page-up
-  .popular__product
-  .product
-  .product__item
-  .product__item__pic
-  .product__item__text
-  .product__sidebar
-  .product__sidebar__comment
-  .product__sidebar__comment__item
-  .product__sidebar__comment__item__pic
-  .product__sidebar__comment__item__text
-  .product__sidebar__view
-  .product__sidebar__view__item
-  .recent__product
-  .search-close-switch
-  .search-model
-  .search-model-form
-  .section-title
-  .set-bg
-  .spad
-  .trending__product
-  .view
-  .week
-  .years
+  .active {
+
+  }
+
+  .btn__all { }
+  .comment { }
+  .container { }
+  .content { }
+  .day { }
+  .ep { }
+  .filter__controls { }
+  .filter__gallery { }
+  .footer { }
+  .footer__nav { }
+  .h-100 { }
+  .header { }
+  .header__logo { }
+  .header__nav { }
+  .hero {
+    
+   }
+  .hero__items {
+
+   }
+  .hero__slider {
+
+   }
+  .hero__text {
+
+   }
+  .icon_close { }
+  .img { }
+  .img__responsive { }
+  .label { }
+  .live__product { }
+  .mix { }
+  .month { }
+  .page-up { }
+  .popular__product { }
+  .product { }
+  .product__item { }
+  .product__item__pic { }
+  .product__item__text { }
+  .product__sidebar { }
+  .product__sidebar__comment { }
+  .product__sidebar__comment__item { }
+  .product__sidebar__comment__item__pic { }
+  .product__sidebar__comment__item__text { }
+  .product__sidebar__view { }
+  .product__sidebar__view__item { }
+  .recent__product { }
+  .search-close-switch { }
+  .search-model { }
+  .search-model-form { }
+  .section-title { }
+  .set-bg { }
+  .spad { }
+  .trending__product { }
+  .view { }
+  .week { }
+  .years { }
 
   
