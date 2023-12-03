@@ -1,4 +1,5 @@
 import * as utils from "./utils.js";
+import * as player from "./player.js";
 
 function setup() {
   document.addEventListener("DOMContentLoaded", function () {
@@ -9,6 +10,7 @@ function setup() {
       utils.makeNavBarSticky();
     };
   });
+  player.initPlayer();
 }
 
 setup();
